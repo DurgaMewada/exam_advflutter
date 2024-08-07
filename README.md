@@ -1,7 +1,13 @@
 ## **Jokes Application**
 
-Creating a jokes application using Flutter with API integration involves several key components and concepts.
-JokeSplash is a cross-platform mobile app built with Flutter that delivers a daily dose of humor by fetching jokes from a remote API. Users can browse jokes by category, search for specific jokes, save their favorites, and share jokes with friends.
+Jokes App
+The Jokes App is a Flutter-based mobile application designed to bring laughter to users through a collection of jokes fetched from an online API. The app features a sleek and user-friendly interface, making it easy for users to enjoy a wide variety of jokes anytime, anywhere.
+
+ ## Joke API Integration:
+-   The app fetches the latest jokes from a reliable joke API, ensuring users always have fresh and entertaining content.
+
+  ## Favorite Jokes:
+- Users can mark their favorite jokes and save them using SharedPreferences. This allows users to easily access their favorite jokes even when offline.
 
 # Jokes Application Using API
 <div> 
